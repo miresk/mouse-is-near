@@ -1,7 +1,7 @@
 mouse-is-near
 =============  
   
-Mouse-is-near is a jQuery plugin which track movement of the cursor and allows you to define events when the cursor is close to some element. Basically i turned this code [jsFiddle example](http://jsfiddle.net/ThinkingStiff/Lpg8x/) into plugin.
+Mouse-is-near is a jQuery plugin which tracks movement of the cursor and allows you to define events when the cursor is close to some element. Basically i turned this code [jsFiddle example](http://jsfiddle.net/ThinkingStiff/Lpg8x/) into plugin.
 
 There are 4 parameters you can set:
 
